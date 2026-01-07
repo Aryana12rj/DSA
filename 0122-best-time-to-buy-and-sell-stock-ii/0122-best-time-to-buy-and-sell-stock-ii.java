@@ -1,35 +1,23 @@
-import java.util.*;
-
 public class Solution {
     public int maxProfit(int[] prices) {
         int n = prices.length;
-        // dp[i][buy] where buy = 1 means we can buy, buy = 0 means we can sell
-        int[][] dp = new int[n][2];
-        
-        for (int[] row : dp) {
-            Arrays.fill(row, -1);
+        int[][] dp = new int[n + 1][2];
+        dp[n][0] = dp[n][1] = 0;
+
+        for (int i = n - 1; i >= 0; i--) {
+            for (int canBuy = 0; canBuy <= 1; canBuy++) {
+                if (canBuy == 1) {
+                    dp[i][canBuy] = Math.max(-prices[i] + dp[i + 1][0],  
+                                             dp[i + 1][1]);              
+                } else {
+                    dp[i][canBuy] = Math.max(prices[i] + dp[i + 1][1],   
+                                             dp[i + 1][0]);              
+                }
+            }
         }
-        
-        return dpMem(0, 1, prices, dp); 
-    }
-    
-    private int dpMem(int i, int buy, int[] prices, int[][] dp) {
-        int n = prices.length;
-        if (i == n) return 0;  
-        
-        if (dp[i][buy] != -1) return dp[i][buy]; 
-        
-        int profit;
-        if (buy == 1) {
-            // Can buy: choose between buying today or skipping
-            profit = Math.max(-prices[i] + dpMem(i + 1, 0, prices, dp),
-                               dpMem(i + 1, 1, prices, dp));
-        } else {
-            // Can sell: choose between selling today or skipping
-            profit = Math.max(prices[i] + dpMem(i + 1, 1, prices, dp),
-                               dpMem(i + 1, 0, prices, dp));
-        }
-        
-        return dp[i][buy] = profit;
+
+        return dp[0][1];
     }
 }
+
+
