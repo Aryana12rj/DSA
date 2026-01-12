@@ -1,12 +1,16 @@
 class Solution {
     public int climbStairs(int n) {
-        if (n <= 2) return n;
-        int first = 1, second = 2;
-        for (int i = 3; i <= n; i++) {
-            int third = first + second;
-            first = second;
-            second = third;
+        Map<Integer, Integer> memo = new HashMap<>();
+        return climbStairs(n, memo);
+    }
+    
+    private int climbStairs(int n, Map<Integer, Integer> memo) {
+        if (n == 0 || n == 1) {
+            return 1;
         }
-        return second;
+        if (!memo.containsKey(n)) {
+            memo.put(n, climbStairs(n-1, memo) + climbStairs(n-2, memo));
+        }
+        return memo.get(n);
     }
 }
