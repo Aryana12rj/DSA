@@ -93,5 +93,6 @@ Happy Coding!
 | ------- | ------- |
 | [0185-department-top-three-salaries](https://github.com/Aryana12rj/DSA/tree/main/0185-department-top-three-salaries/) | Hard |
 | [1193-monthly-transactions-i](https://github.com/Aryana12rj/DSA/tree/main/1193-monthly-transactions-i/) | Medium |
+| [1321-restaurant-growth](https://github.com/Aryana12rj/DSA/tree/main/1321-restaurant-growth/) | Medium |
 | [1341-movie-rating](https://github.com/Aryana12rj/DSA/tree/main/1341-movie-rating/) | Medium |
 <!---LeetCode Topics End-->
