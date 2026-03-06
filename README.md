@@ -92,4 +92,5 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0185-department-top-three-salaries](https://github.com/Aryana12rj/DSA/tree/main/0185-department-top-three-salaries/) | Hard |
+| [1193-monthly-transactions-i](https://github.com/Aryana12rj/DSA/tree/main/1193-monthly-transactions-i/) | Medium |
 <!---LeetCode Topics End-->
