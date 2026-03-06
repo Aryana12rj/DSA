@@ -88,4 +88,8 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Aryana12rj/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0185-department-top-three-salaries](https://github.com/Aryana12rj/DSA/tree/main/0185-department-top-three-salaries/) | Hard |
 <!---LeetCode Topics End-->
