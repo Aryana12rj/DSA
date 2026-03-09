@@ -61,6 +61,7 @@ Happy Coding!
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryana12rj/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Aryana12rj/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/Aryana12rj/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0721-accounts-merge](https://github.com/Aryana12rj/DSA/tree/main/0721-accounts-merge/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -100,4 +101,12 @@ Happy Coding!
 | [1193-monthly-transactions-i](https://github.com/Aryana12rj/DSA/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1321-restaurant-growth](https://github.com/Aryana12rj/DSA/tree/main/1321-restaurant-growth/) | Medium |
 | [1341-movie-rating](https://github.com/Aryana12rj/DSA/tree/main/1341-movie-rating/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Aryana12rj/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Aryana12rj/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
