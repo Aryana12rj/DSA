@@ -77,6 +77,7 @@ Happy Coding!
 | [0010-regular-expression-matching](https://github.com/Aryana12rj/DSA/tree/main/0010-regular-expression-matching/) | Hard |
 | [0020-valid-parentheses](https://github.com/Aryana12rj/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Aryana12rj/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/Aryana12rj/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Aryana12rj/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0721-accounts-merge](https://github.com/Aryana12rj/DSA/tree/main/0721-accounts-merge/) | Medium |
 ## Sorting
@@ -93,6 +94,7 @@ Happy Coding!
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Aryana12rj/DSA/tree/main/0010-regular-expression-matching/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/Aryana12rj/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/Aryana12rj/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Aryana12rj/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Aryana12rj/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 ## Binary Search
@@ -147,4 +149,8 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Aryana12rj/DSA/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0131-palindrome-partitioning](https://github.com/Aryana12rj/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 <!---LeetCode Topics End-->
