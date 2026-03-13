@@ -74,6 +74,7 @@ Happy Coding!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aryana12rj/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Aryana12rj/DSA/tree/main/0010-regular-expression-matching/) | Hard |
 | [0020-valid-parentheses](https://github.com/Aryana12rj/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Aryana12rj/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
@@ -92,6 +93,7 @@ Happy Coding!
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aryana12rj/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Aryana12rj/DSA/tree/main/0010-regular-expression-matching/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/Aryana12rj/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Aryana12rj/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -153,4 +155,8 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/Aryana12rj/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aryana12rj/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
