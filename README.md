@@ -67,6 +67,7 @@ Happy Coding!
 | [0307-range-sum-query-mutable](https://github.com/Aryana12rj/DSA/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0721-accounts-merge](https://github.com/Aryana12rj/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aryana12rj/DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [2765-longest-alternating-subarray](https://github.com/Aryana12rj/DSA/tree/main/2765-longest-alternating-subarray/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,4 +163,8 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aryana12rj/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2765-longest-alternating-subarray](https://github.com/Aryana12rj/DSA/tree/main/2765-longest-alternating-subarray/) | Easy |
 <!---LeetCode Topics End-->
