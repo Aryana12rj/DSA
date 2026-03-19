@@ -87,6 +87,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Aryana12rj/DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Aryana12rj/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Aryana12rj/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0721-accounts-merge](https://github.com/Aryana12rj/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aryana12rj/DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -100,6 +101,7 @@ Happy Coding!
 | [0020-valid-parentheses](https://github.com/Aryana12rj/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Aryana12rj/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Aryana12rj/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0242-valid-anagram](https://github.com/Aryana12rj/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Aryana12rj/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0721-accounts-merge](https://github.com/Aryana12rj/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Aryana12rj/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -109,6 +111,7 @@ Happy Coding!
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Aryana12rj/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/Aryana12rj/DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Aryana12rj/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Aryana12rj/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0721-accounts-merge](https://github.com/Aryana12rj/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
