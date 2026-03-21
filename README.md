@@ -224,6 +224,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Aryana12rj/DSA/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
+| [3870-count-commas-in-range](https://github.com/Aryana12rj/DSA/tree/main/3870-count-commas-in-range/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
