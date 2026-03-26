@@ -62,6 +62,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Aryana12rj/DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/Aryana12rj/DSA/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,4 +259,12 @@ Happy Coding!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/Aryana12rj/DSA/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/Aryana12rj/DSA/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
 <!---LeetCode Topics End-->
