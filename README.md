@@ -67,6 +67,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aryana12rj/DSA/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aryana12rj/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryana12rj/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0056-merge-intervals](https://github.com/Aryana12rj/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryana12rj/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -157,6 +158,7 @@ Happy Coding!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aryana12rj/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryana12rj/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Aryana12rj/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Aryana12rj/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -210,6 +212,7 @@ Happy Coding!
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aryana12rj/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0307-range-sum-query-mutable](https://github.com/Aryana12rj/DSA/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [3721-longest-balanced-subarray-ii](https://github.com/Aryana12rj/DSA/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 ## Binary Indexed Tree
