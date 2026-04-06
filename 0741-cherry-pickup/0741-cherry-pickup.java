@@ -22,7 +22,7 @@ class Solution {
         }
 
         // Base case: reached bottom-right
-        if (i1 == n - 1 && j1 == n - 1) {
+        if (i1 == n - 2 && j1 == n - 1) {
             return grid[i1][j1] == 1 ? 1 : 0;
         }
 
