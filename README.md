@@ -84,6 +84,7 @@ Happy Coding!
 | [0560-subarray-sum-equals-k](https://github.com/Aryana12rj/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Aryana12rj/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0721-accounts-merge](https://github.com/Aryana12rj/DSA/tree/main/0721-accounts-merge/) | Medium |
+| [0741-cherry-pickup](https://github.com/Aryana12rj/DSA/tree/main/0741-cherry-pickup/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aryana12rj/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aryana12rj/DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1314-matrix-block-sum](https://github.com/Aryana12rj/DSA/tree/main/1314-matrix-block-sum/) | Medium |
@@ -151,6 +152,7 @@ Happy Coding!
 | [0300-longest-increasing-subsequence](https://github.com/Aryana12rj/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Aryana12rj/DSA/tree/main/0413-arithmetic-slices/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Aryana12rj/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0741-cherry-pickup](https://github.com/Aryana12rj/DSA/tree/main/0741-cherry-pickup/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Aryana12rj/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Aryana12rj/DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Aryana12rj/DSA/tree/main/2547-minimum-cost-to-split-an-array/) | Hard |
@@ -197,6 +199,7 @@ Happy Coding!
 | ------- | ------- |
 | [0174-dungeon-game](https://github.com/Aryana12rj/DSA/tree/main/0174-dungeon-game/) | Hard |
 | [0304-range-sum-query-2d-immutable](https://github.com/Aryana12rj/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0741-cherry-pickup](https://github.com/Aryana12rj/DSA/tree/main/0741-cherry-pickup/) | Hard |
 | [1314-matrix-block-sum](https://github.com/Aryana12rj/DSA/tree/main/1314-matrix-block-sum/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Aryana12rj/DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Aryana12rj/DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
