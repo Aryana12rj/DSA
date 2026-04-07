@@ -89,6 +89,7 @@ Happy Coding!
 | [0879-profitable-schemes](https://github.com/Aryana12rj/DSA/tree/main/0879-profitable-schemes/) | Hard |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aryana12rj/DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1314-matrix-block-sum](https://github.com/Aryana12rj/DSA/tree/main/1314-matrix-block-sum/) | Medium |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Aryana12rj/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Aryana12rj/DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Aryana12rj/DSA/tree/main/2547-minimum-cost-to-split-an-array/) | Hard |
 | [2765-longest-alternating-subarray](https://github.com/Aryana12rj/DSA/tree/main/2765-longest-alternating-subarray/) | Easy |
@@ -134,6 +135,7 @@ Happy Coding!
 | [0721-accounts-merge](https://github.com/Aryana12rj/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0899-orderly-queue](https://github.com/Aryana12rj/DSA/tree/main/0899-orderly-queue/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Aryana12rj/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Aryana12rj/DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -280,6 +282,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Aryana12rj/DSA/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Aryana12rj/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,4 +291,8 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Aryana12rj/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Aryana12rj/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 <!---LeetCode Topics End-->
