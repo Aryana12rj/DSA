@@ -100,6 +100,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aryana12rj/DSA/tree/main/0001-two-sum/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/Aryana12rj/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/Aryana12rj/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Aryana12rj/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Aryana12rj/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -212,6 +213,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Aryana12rj/DSA/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0160-intersection-of-two-linked-lists](https://github.com/Aryana12rj/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,6 +242,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aryana12rj/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Aryana12rj/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
