@@ -84,6 +84,7 @@ Happy Coding!
 | [0304-range-sum-query-2d-immutable](https://github.com/Aryana12rj/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/Aryana12rj/DSA/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Aryana12rj/DSA/tree/main/0413-arithmetic-slices/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/Aryana12rj/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Aryana12rj/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aryana12rj/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Aryana12rj/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -165,6 +166,7 @@ Happy Coding!
 | [0198-house-robber](https://github.com/Aryana12rj/DSA/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Aryana12rj/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Aryana12rj/DSA/tree/main/0413-arithmetic-slices/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/Aryana12rj/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Aryana12rj/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/Aryana12rj/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/Aryana12rj/DSA/tree/main/0576-out-of-boundary-paths/) | Medium |
