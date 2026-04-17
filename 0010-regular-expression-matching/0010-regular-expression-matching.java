@@ -1,32 +1,25 @@
 class Solution {
-    public boolean isMatch(String s, String p) {
-        if(s==null || p==null){
+    public boolean solve(String s,String p){
+        if(p.length()==0){
+            if(s.length()==0){
+                return true;
+            }
             return false;
         }
-        boolean[][] dp=new boolean[s.length()+1][p.length()+1];
-        dp[0][0]=true;
-        for(int i=0;i<p.length();i++){
-            if(p.charAt(i)=='*'&&dp[0][i-1]){
-                dp[0][i+1]=true;
-            }
+        boolean first_catch_match=false;
+        if(s.length()> 0 &&(p.charAt(0)==s.charAt(0)||p.charAt(0)=='.')){
+            first_catch_match=true;
         }
-        for(int i=0;i<s.length();i++){
-            for(int j=0;j<p.length();j++){
-                if(p.charAt(j)=='.'){
-                    dp[i+1][j+1]=dp[i][j];
-                }
-                if(p.charAt(j)==s.charAt(i)){
-                    dp[i+1][j+1]=dp[i][j];
-                }
-                if(p.charAt(j)=='*'){
-                    if(p.charAt(j-1)!=s.charAt(i)&&p.charAt(j-1)!='.'){
-                        dp[i+1][j+1]=dp[i+1][j-1];
-                    }else{
-                        dp[i+1][j+1]=(dp[i+1][j]||dp[i][j+1]||dp[i+1][j-1]);
-                    }
-                }
-            }
+        if(p.length()>=2 &&p.charAt(1)=='*'){
+            boolean nottake=solve(s,p.substring(2));
+            boolean take=first_catch_match && solve(s.substring(1),p);
+            return nottake || take;
+        }else{
+            return first_catch_match && solve(s.substring(1),p.substring(1));
         }
-        return dp[s.length()][p.length()];
+
+    }
+    public boolean isMatch(String s, String p) {
+        return solve(s,p);
     }
 }
