@@ -72,6 +72,7 @@ Happy Coding!
 | [0056-merge-intervals](https://github.com/Aryana12rj/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryana12rj/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0162-find-peak-element](https://github.com/Aryana12rj/DSA/tree/main/0162-find-peak-element/) | Medium |
+| [0169-majority-element](https://github.com/Aryana12rj/DSA/tree/main/0169-majority-element/) | Easy |
 | [0174-dungeon-game](https://github.com/Aryana12rj/DSA/tree/main/0174-dungeon-game/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Aryana12rj/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Aryana12rj/DSA/tree/main/0217-contains-duplicate/) | Easy |
@@ -101,6 +102,7 @@ Happy Coding!
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aryana12rj/DSA/tree/main/0001-two-sum/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryana12rj/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/Aryana12rj/DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Aryana12rj/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Aryana12rj/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Aryana12rj/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -130,6 +132,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Aryana12rj/DSA/tree/main/0056-merge-intervals/) | Medium |
+| [0169-majority-element](https://github.com/Aryana12rj/DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Aryana12rj/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Aryana12rj/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Aryana12rj/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -225,6 +228,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aryana12rj/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0169-majority-element](https://github.com/Aryana12rj/DSA/tree/main/0169-majority-element/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/Aryana12rj/DSA/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [3721-longest-balanced-subarray-ii](https://github.com/Aryana12rj/DSA/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 ## Binary Indexed Tree
@@ -258,6 +262,7 @@ Happy Coding!
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Aryana12rj/DSA/tree/main/0169-majority-element/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Aryana12rj/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Aryana12rj/DSA/tree/main/2547-minimum-cost-to-split-an-array/) | Hard |
 | [2833-furthest-point-from-origin](https://github.com/Aryana12rj/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
