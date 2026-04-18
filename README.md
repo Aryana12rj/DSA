@@ -79,6 +79,7 @@ Happy Coding!
 | [0217-contains-duplicate](https://github.com/Aryana12rj/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Aryana12rj/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Aryana12rj/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0283-move-zeroes](https://github.com/Aryana12rj/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Aryana12rj/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Aryana12rj/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/Aryana12rj/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
@@ -261,6 +262,7 @@ Happy Coding!
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aryana12rj/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryana12rj/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0283-move-zeroes](https://github.com/Aryana12rj/DSA/tree/main/0283-move-zeroes/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
