@@ -1,28 +1,19 @@
-import java.util.HashSet;
-import java.util.Set;
-
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        Set<Character> set = new HashSet<>();
-        int maxlen = 0;
-        int left = 0;
-
-        for (int right = 0; right < s.length(); right++) {
-            char c = s.charAt(right);
-
-            // If duplicate found, shrink window from left
-            while (set.contains(c)) {
-                set.remove(s.charAt(left));
-                left++;
+        int n=s.length();
+        int longest=0;
+        for(int i=0;i<s.length();i++){
+            Set<Character> set=new HashSet<>();
+            for(int j=i;j<s.length();j++){
+                char ch=s.charAt(j);
+                if(set.contains(ch)){
+                    break;
+                }
+                set.add(ch);
+                longest=Math.max(longest,j-i+1);
             }
-
-            // Add current character
-            set.add(c);
-
-            // Update max length
-            maxlen = Math.max(maxlen, right - left + 1);
         }
+        return longest;
 
-        return maxlen;
     }
 }
