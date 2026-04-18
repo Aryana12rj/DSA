@@ -74,6 +74,7 @@ Happy Coding!
 | [0055-jump-game](https://github.com/Aryana12rj/DSA/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Aryana12rj/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryana12rj/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryana12rj/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Aryana12rj/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Aryana12rj/DSA/tree/main/0169-majority-element/) | Easy |
 | [0174-dungeon-game](https://github.com/Aryana12rj/DSA/tree/main/0174-dungeon-game/) | Hard |
@@ -194,6 +195,7 @@ Happy Coding!
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aryana12rj/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryana12rj/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryana12rj/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Aryana12rj/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Aryana12rj/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Aryana12rj/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
