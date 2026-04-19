@@ -13,10 +13,12 @@ class Solution {
         if(root==null){
             return null;
         }
+        //left substree
         else if(root.val>p.val && root.val>q.val ){
             return lowestCommonAncestor(root.left,p,q);
 
         }
+        //right substree
         else if(root.val<p.val && root.val <q.val){
             return lowestCommonAncestor(root.right,p,q);
 
