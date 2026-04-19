@@ -45,6 +45,7 @@ Happy Coding!
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryana12rj/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0200-number-of-islands](https://github.com/Aryana12rj/DSA/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/Aryana12rj/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryana12rj/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -62,6 +63,7 @@ Happy Coding!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/Aryana12rj/DSA/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/Aryana12rj/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Aryana12rj/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0721-accounts-merge](https://github.com/Aryana12rj/DSA/tree/main/0721-accounts-merge/) | Medium |
@@ -76,6 +78,7 @@ Happy Coding!
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Aryana12rj/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aryana12rj/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Aryana12rj/DSA/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
 ## Array
@@ -389,4 +392,8 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryana12rj/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Aryana12rj/DSA/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
