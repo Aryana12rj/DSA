@@ -1,41 +1,27 @@
 class Solution {
+    public void dfs(char[][] grid,int i,int j,boolean[][] visited){
+        if(i<0||i>=grid.length||j<0||j>=grid[0].length||visited[i][j]||grid[i][j]!='1'){
+            return;
+        }
+        visited[i][j]=true;
+        dfs(grid,i-1,j,visited);
+        dfs(grid,i+1,j,visited);
+        dfs(grid,i,j+1,visited);
+        dfs(grid,i,j-1,visited);
+    }
     public int numIslands(char[][] grid) {
-        int islands = 0;
-        int m = grid.length;
-        int n = grid[0].length;
-
-        for(int i = 0; i < m; i++){
-            for(int j = 0; j < n; j++){
-                if(grid[i][j] == '1'){
+        int islands=0;
+        int n=grid.length;
+        int m=grid[0].length;
+        boolean[][] visited=new boolean[n][m];
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(grid[i][j]=='1'&& !visited[i][j]){
+                    dfs(grid,i,j,visited);
                     islands++;
-                    check(grid, i, j, m, n);
                 }
             }
         }
         return islands;
-    }
-
-    private static void check(char mat[][], int i, int j, int m, int n){
-        mat[i][j] = '0';
-
-        // left
-        if(j - 1 >= 0 && mat[i][j - 1] == '1'){
-            check(mat, i, j - 1, m, n);
-        }
-
-        // right
-        if(j + 1 < n && mat[i][j + 1] == '1'){
-            check(mat, i, j + 1, m, n);
-        }
-
-        // up
-        if(i - 1 >= 0 && mat[i - 1][j] == '1'){
-            check(mat, i - 1, j, m, n);
-        }
-
-        // down
-        if(i + 1 < m && mat[i + 1][j] == '1'){
-            check(mat, i + 1, j, m, n);
-        }
     }
 }
