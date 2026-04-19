@@ -40,6 +40,7 @@ Happy Coding!
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryana12rj/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -50,6 +51,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aryana12rj/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Aryana12rj/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0721-accounts-merge](https://github.com/Aryana12rj/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -309,6 +311,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aryana12rj/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryana12rj/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -317,6 +320,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aryana12rj/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryana12rj/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
