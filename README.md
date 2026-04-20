@@ -120,6 +120,7 @@ Happy Coding!
 | [0721-accounts-merge](https://github.com/Aryana12rj/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Aryana12rj/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0741-cherry-pickup](https://github.com/Aryana12rj/DSA/tree/main/0741-cherry-pickup/) | Hard |
+| [0746-min-cost-climbing-stairs](https://github.com/Aryana12rj/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aryana12rj/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0879-profitable-schemes](https://github.com/Aryana12rj/DSA/tree/main/0879-profitable-schemes/) | Hard |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aryana12rj/DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -209,6 +210,7 @@ Happy Coding!
 | [0518-coin-change-ii](https://github.com/Aryana12rj/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/Aryana12rj/DSA/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0741-cherry-pickup](https://github.com/Aryana12rj/DSA/tree/main/0741-cherry-pickup/) | Hard |
+| [0746-min-cost-climbing-stairs](https://github.com/Aryana12rj/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0879-profitable-schemes](https://github.com/Aryana12rj/DSA/tree/main/0879-profitable-schemes/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Aryana12rj/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Aryana12rj/DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
