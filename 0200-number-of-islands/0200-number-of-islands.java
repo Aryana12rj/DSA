@@ -6,14 +6,15 @@ class Solution {
         visited[i][j]=true;
         dfs(grid,i-1,j,visited);
         dfs(grid,i+1,j,visited);
-        dfs(grid,i,j+1,visited);
         dfs(grid,i,j-1,visited);
+        dfs(grid,i,j+1,visited);
+
     }
     public int numIslands(char[][] grid) {
-        int islands=0;
         int n=grid.length;
         int m=grid[0].length;
         boolean[][] visited=new boolean[n][m];
+        int islands=0;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(grid[i][j]=='1'&& !visited[i][j]){
