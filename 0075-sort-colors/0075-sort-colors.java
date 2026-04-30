@@ -8,15 +8,14 @@ class Solution {
             if(nums[mid]==0){
                 nums[mid]=nums[low];
                 nums[low]=0;
-                low++;
                 mid++;
+                low++;
             }else if(nums[mid]==1){
                 mid++;
             }else{
                 nums[mid]=nums[high];
                 nums[high]=2;
                 high--;
-                mid++;
 
             }
         }
