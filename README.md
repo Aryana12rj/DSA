@@ -99,6 +99,7 @@ Happy Coding!
 | [0136-single-number](https://github.com/Aryana12rj/DSA/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryana12rj/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Aryana12rj/DSA/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryana12rj/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Aryana12rj/DSA/tree/main/0169-majority-element/) | Easy |
 | [0174-dungeon-game](https://github.com/Aryana12rj/DSA/tree/main/0174-dungeon-game/) | Hard |
 | [0198-house-robber](https://github.com/Aryana12rj/DSA/tree/main/0198-house-robber/) | Medium |
@@ -233,6 +234,7 @@ Happy Coding!
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryana12rj/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryana12rj/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Aryana12rj/DSA/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryana12rj/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Aryana12rj/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/Aryana12rj/DSA/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Aryana12rj/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -316,6 +318,7 @@ Happy Coding!
 | [0005-longest-palindromic-substring](https://github.com/Aryana12rj/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryana12rj/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryana12rj/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryana12rj/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Aryana12rj/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/Aryana12rj/DSA/tree/main/0455-assign-cookies/) | Easy |
 ## Enumeration
