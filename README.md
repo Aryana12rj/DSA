@@ -94,6 +94,7 @@ Happy Coding!
 | [0015-3sum](https://github.com/Aryana12rj/DSA/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryana12rj/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryana12rj/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Aryana12rj/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Aryana12rj/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Aryana12rj/DSA/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Aryana12rj/DSA/tree/main/0056-merge-intervals/) | Medium |
@@ -202,6 +203,7 @@ Happy Coding!
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Aryana12rj/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Aryana12rj/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Aryana12rj/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aryana12rj/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -209,6 +211,7 @@ Happy Coding!
 | [0005-longest-palindromic-substring](https://github.com/Aryana12rj/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Aryana12rj/DSA/tree/main/0010-regular-expression-matching/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/Aryana12rj/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Aryana12rj/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Aryana12rj/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Aryana12rj/DSA/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Aryana12rj/DSA/tree/main/0062-unique-paths/) | Medium |
@@ -325,6 +328,7 @@ Happy Coding!
 | [0011-container-with-most-water](https://github.com/Aryana12rj/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Aryana12rj/DSA/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryana12rj/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Aryana12rj/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Aryana12rj/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryana12rj/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryana12rj/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -443,4 +447,8 @@ Happy Coding!
 | ------- | ------- |
 | [0136-single-number](https://github.com/Aryana12rj/DSA/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Aryana12rj/DSA/tree/main/0268-missing-number/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Aryana12rj/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
