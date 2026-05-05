@@ -252,6 +252,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0185-department-top-three-salaries](https://github.com/Aryana12rj/DSA/tree/main/0185-department-top-three-salaries/) | Hard |
+| [0550-game-play-analysis-iv](https://github.com/Aryana12rj/DSA/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [1084-sales-analysis-iii](https://github.com/Aryana12rj/DSA/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1174-immediate-food-delivery-ii](https://github.com/Aryana12rj/DSA/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/Aryana12rj/DSA/tree/main/1193-monthly-transactions-i/) | Medium |
