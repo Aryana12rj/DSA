@@ -295,6 +295,7 @@ Happy Coding!
 | [0021-merge-two-sorted-lists](https://github.com/Aryana12rj/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/Aryana12rj/DSA/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryana12rj/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Aryana12rj/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -334,6 +335,7 @@ Happy Coding!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryana12rj/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Aryana12rj/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/Aryana12rj/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Aryana12rj/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
