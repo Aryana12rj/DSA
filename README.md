@@ -292,6 +292,7 @@ Happy Coding!
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Aryana12rj/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Aryana12rj/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/Aryana12rj/DSA/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryana12rj/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -299,6 +300,7 @@ Happy Coding!
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Aryana12rj/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Aryana12rj/DSA/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/Aryana12rj/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/Aryana12rj/DSA/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
@@ -359,6 +361,7 @@ Happy Coding!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Aryana12rj/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0062-unique-paths](https://github.com/Aryana12rj/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Aryana12rj/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/Aryana12rj/DSA/tree/main/0268-missing-number/) | Easy |
