@@ -296,6 +296,7 @@ Happy Coding!
 | [0002-add-two-numbers](https://github.com/Aryana12rj/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Aryana12rj/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/Aryana12rj/DSA/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Aryana12rj/DSA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryana12rj/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Aryana12rj/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
