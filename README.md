@@ -53,6 +53,7 @@ Happy Coding!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Aryana12rj/DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0662-maximum-width-of-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0721-accounts-merge](https://github.com/Aryana12rj/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Aryana12rj/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -70,6 +71,7 @@ Happy Coding!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/Aryana12rj/DSA/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aryana12rj/DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0662-maximum-width-of-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0721-accounts-merge](https://github.com/Aryana12rj/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Aryana12rj/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -389,6 +391,7 @@ Happy Coding!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -405,6 +408,7 @@ Happy Coding!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
