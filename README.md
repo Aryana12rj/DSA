@@ -147,6 +147,7 @@ Happy Coding!
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aryana12rj/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Aryana12rj/DSA/tree/main/2547-minimum-cost-to-split-an-array/) | Hard |
 | [2765-longest-alternating-subarray](https://github.com/Aryana12rj/DSA/tree/main/2765-longest-alternating-subarray/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/Aryana12rj/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Aryana12rj/DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Aryana12rj/DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3721-longest-balanced-subarray-ii](https://github.com/Aryana12rj/DSA/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
@@ -169,6 +170,7 @@ Happy Coding!
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Aryana12rj/DSA/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Aryana12rj/DSA/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Aryana12rj/DSA/tree/main/2547-minimum-cost-to-split-an-array/) | Hard |
+| [2784-check-if-array-is-good](https://github.com/Aryana12rj/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3721-longest-balanced-subarray-ii](https://github.com/Aryana12rj/DSA/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -208,6 +210,7 @@ Happy Coding!
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Aryana12rj/DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aryana12rj/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aryana12rj/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/Aryana12rj/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
