@@ -53,6 +53,7 @@ Happy Coding!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryana12rj/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0399-evaluate-division](https://github.com/Aryana12rj/DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Aryana12rj/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -74,6 +75,7 @@ Happy Coding!
 | [0226-invert-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/Aryana12rj/DSA/tree/main/0322-coin-change/) | Medium |
+| [0399-evaluate-division](https://github.com/Aryana12rj/DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aryana12rj/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0721-accounts-merge](https://github.com/Aryana12rj/DSA/tree/main/0721-accounts-merge/) | Medium |
@@ -84,6 +86,7 @@ Happy Coding!
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Aryana12rj/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Aryana12rj/DSA/tree/main/0200-number-of-islands/) | Medium |
+| [0399-evaluate-division](https://github.com/Aryana12rj/DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aryana12rj/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0721-accounts-merge](https://github.com/Aryana12rj/DSA/tree/main/0721-accounts-merge/) | Medium |
 ## Graph Theory
@@ -91,6 +94,7 @@ Happy Coding!
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/Aryana12rj/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/Aryana12rj/DSA/tree/main/0207-course-schedule/) | Medium |
+| [0399-evaluate-division](https://github.com/Aryana12rj/DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aryana12rj/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Aryana12rj/DSA/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
 ## Array
@@ -131,6 +135,7 @@ Happy Coding!
 | [0307-range-sum-query-mutable](https://github.com/Aryana12rj/DSA/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0312-burst-balloons](https://github.com/Aryana12rj/DSA/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/Aryana12rj/DSA/tree/main/0322-coin-change/) | Medium |
+| [0399-evaluate-division](https://github.com/Aryana12rj/DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Aryana12rj/DSA/tree/main/0413-arithmetic-slices/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Aryana12rj/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0455-assign-cookies](https://github.com/Aryana12rj/DSA/tree/main/0455-assign-cookies/) | Easy |
@@ -192,6 +197,7 @@ Happy Coding!
 | [0131-palindrome-partitioning](https://github.com/Aryana12rj/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0242-valid-anagram](https://github.com/Aryana12rj/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0399-evaluate-division](https://github.com/Aryana12rj/DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Aryana12rj/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Aryana12rj/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0721-accounts-merge](https://github.com/Aryana12rj/DSA/tree/main/0721-accounts-merge/) | Medium |
@@ -441,6 +447,7 @@ Happy Coding!
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0399-evaluate-division](https://github.com/Aryana12rj/DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Aryana12rj/DSA/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
