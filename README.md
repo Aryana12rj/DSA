@@ -163,6 +163,7 @@ Happy Coding!
 | [2547-minimum-cost-to-split-an-array](https://github.com/Aryana12rj/DSA/tree/main/2547-minimum-cost-to-split-an-array/) | Hard |
 | [2765-longest-alternating-subarray](https://github.com/Aryana12rj/DSA/tree/main/2765-longest-alternating-subarray/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Aryana12rj/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aryana12rj/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Aryana12rj/DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Aryana12rj/DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3721-longest-balanced-subarray-ii](https://github.com/Aryana12rj/DSA/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
@@ -187,6 +188,7 @@ Happy Coding!
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Aryana12rj/DSA/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Aryana12rj/DSA/tree/main/2547-minimum-cost-to-split-an-array/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Aryana12rj/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aryana12rj/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3721-longest-balanced-subarray-ii](https://github.com/Aryana12rj/DSA/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -207,6 +209,7 @@ Happy Coding!
 | [1143-longest-common-subsequence](https://github.com/Aryana12rj/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Aryana12rj/DSA/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Aryana12rj/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aryana12rj/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -499,4 +502,8 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Aryana12rj/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aryana12rj/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 <!---LeetCode Topics End-->
