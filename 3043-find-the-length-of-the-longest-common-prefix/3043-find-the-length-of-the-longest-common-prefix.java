@@ -1,25 +1,23 @@
 class Solution {
     public int longestCommonPrefix(int[] arr1, int[] arr2) {
-        int commonPrefixLength = 0;
-        HashSet<Integer> prefixSet = new HashSet<>();
-        for (int num : arr1) {
-            while (num > 0) {
-                prefixSet.add(num);
-                num /= 10;
+        int maxlen=0;
+        Set<String> prefixset=new HashSet<>();
+        //store all prefix of arr1
+        for(int num: arr1){
+            String s=String.valueOf(num);
+            for(int i=1;i<=s.length();i++){
+                prefixset.add(s.substring(0,i));
             }
         }
-        for (int num : arr2) {
-            while (num > 0) {
-                if (prefixSet.contains(num)) {
-                    int prefixLength = String.valueOf(num).length();
-                    if(prefixLength > commonPrefixLength) {
-                        commonPrefixLength = prefixLength;
-                    }
-                    break;
+        for(int num:arr2){
+            String s=String.valueOf(num);
+            for(int i=1;i<=s.length();i++){
+                String prefix=s.substring(0,i);
+                if(prefixset.contains(prefix)){
+                    maxlen=Math.max(maxlen,i);
                 }
-                num /= 10;
             }
         }
-        return commonPrefixLength;
+        return maxlen;
     }
 }
