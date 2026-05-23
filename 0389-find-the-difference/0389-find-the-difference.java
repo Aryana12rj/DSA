@@ -1,18 +1,13 @@
 class Solution {
     public char findTheDifference(String s, String t) {
-        Map<Character,Integer> freq=new HashMap<>();
-        for(char c:t.toCharArray()){
-            freq.put(c,freq.getOrDefault(c,0)+1);
+        int sum_s=0;
+        for(char ch:s.toCharArray()){
+            sum_s+=ch;
         }
-        for(char c:s.toCharArray()){
-            freq.put(c,freq.get(c)-1);
+        int sum_t=0;
+        for(char ch:t.toCharArray()){
+            sum_t+=ch;
         }
-
-        for(Map.Entry<Character,Integer> entry:freq.entrySet()){
-            if(entry.getValue()!=0){
-                return entry.getKey();
-            }
-        }
-        return ' ';
+        return (char)(sum_t-sum_s);
     }
 }
