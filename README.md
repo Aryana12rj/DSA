@@ -107,6 +107,7 @@ Happy Coding!
 | [0015-3sum](https://github.com/Aryana12rj/DSA/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryana12rj/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryana12rj/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0039-combination-sum](https://github.com/Aryana12rj/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Aryana12rj/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Aryana12rj/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Aryana12rj/DSA/tree/main/0055-jump-game/) | Medium |
@@ -369,6 +370,7 @@ Happy Coding!
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/Aryana12rj/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Aryana12rj/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
