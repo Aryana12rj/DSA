@@ -215,6 +215,7 @@ Happy Coding!
 | [1143-longest-common-subsequence](https://github.com/Aryana12rj/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aryana12rj/DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Aryana12rj/DSA/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
+| [1871-jump-game-vii](https://github.com/Aryana12rj/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Aryana12rj/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aryana12rj/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Sorting
@@ -275,6 +276,7 @@ Happy Coding!
 | [0879-profitable-schemes](https://github.com/Aryana12rj/DSA/tree/main/0879-profitable-schemes/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Aryana12rj/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Aryana12rj/DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [1871-jump-game-vii](https://github.com/Aryana12rj/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Aryana12rj/DSA/tree/main/2547-minimum-cost-to-split-an-array/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Aryana12rj/DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Binary Search
@@ -320,6 +322,7 @@ Happy Coding!
 | [1314-matrix-block-sum](https://github.com/Aryana12rj/DSA/tree/main/1314-matrix-block-sum/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Aryana12rj/DSA/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Aryana12rj/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1871-jump-game-vii](https://github.com/Aryana12rj/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Aryana12rj/DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3721-longest-balanced-subarray-ii](https://github.com/Aryana12rj/DSA/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 ## Matrix
@@ -399,6 +402,7 @@ Happy Coding!
 | [0239-sliding-window-maximum](https://github.com/Aryana12rj/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0413-arithmetic-slices](https://github.com/Aryana12rj/DSA/tree/main/0413-arithmetic-slices/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Aryana12rj/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [1871-jump-game-vii](https://github.com/Aryana12rj/DSA/tree/main/1871-jump-game-vii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
