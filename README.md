@@ -155,6 +155,7 @@ Happy Coding!
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aryana12rj/DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aryana12rj/DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1314-matrix-block-sum](https://github.com/Aryana12rj/DSA/tree/main/1314-matrix-block-sum/) | Medium |
+| [1340-jump-game-v](https://github.com/Aryana12rj/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Aryana12rj/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Aryana12rj/DSA/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Aryana12rj/DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -239,6 +240,7 @@ Happy Coding!
 | [0721-accounts-merge](https://github.com/Aryana12rj/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0899-orderly-queue](https://github.com/Aryana12rj/DSA/tree/main/0899-orderly-queue/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1340-jump-game-v](https://github.com/Aryana12rj/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Aryana12rj/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Aryana12rj/DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aryana12rj/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -279,6 +281,7 @@ Happy Coding!
 | [0746-min-cost-climbing-stairs](https://github.com/Aryana12rj/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0879-profitable-schemes](https://github.com/Aryana12rj/DSA/tree/main/0879-profitable-schemes/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Aryana12rj/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1340-jump-game-v](https://github.com/Aryana12rj/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Aryana12rj/DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1871-jump-game-vii](https://github.com/Aryana12rj/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Aryana12rj/DSA/tree/main/2547-minimum-cost-to-split-an-array/) | Hard |
