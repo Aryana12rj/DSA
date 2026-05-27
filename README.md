@@ -194,6 +194,7 @@ Happy Coding!
 | [2547-minimum-cost-to-split-an-array](https://github.com/Aryana12rj/DSA/tree/main/2547-minimum-cost-to-split-an-array/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Aryana12rj/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aryana12rj/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Aryana12rj/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Aryana12rj/DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3721-longest-balanced-subarray-ii](https://github.com/Aryana12rj/DSA/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 ## String
@@ -219,6 +220,7 @@ Happy Coding!
 | [1871-jump-game-vii](https://github.com/Aryana12rj/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Aryana12rj/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aryana12rj/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Aryana12rj/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Aryana12rj/DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
