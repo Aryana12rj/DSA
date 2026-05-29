@@ -170,6 +170,7 @@ Happy Coding!
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aryana12rj/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Aryana12rj/DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Aryana12rj/DSA/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aryana12rj/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Aryana12rj/DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3721-longest-balanced-subarray-ii](https://github.com/Aryana12rj/DSA/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 ## Hash Table
@@ -431,6 +432,7 @@ Happy Coding!
 | [0268-missing-number](https://github.com/Aryana12rj/DSA/tree/main/0268-missing-number/) | Easy |
 | [0899-orderly-queue](https://github.com/Aryana12rj/DSA/tree/main/0899-orderly-queue/) | Hard |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Aryana12rj/DSA/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aryana12rj/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Aryana12rj/DSA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Aryana12rj/DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Tree
