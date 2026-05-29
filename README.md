@@ -313,6 +313,7 @@ Happy Coding!
 | [1321-restaurant-growth](https://github.com/Aryana12rj/DSA/tree/main/1321-restaurant-growth/) | Medium |
 | [1341-movie-rating](https://github.com/Aryana12rj/DSA/tree/main/1341-movie-rating/) | Medium |
 | [1393-capital-gainloss](https://github.com/Aryana12rj/DSA/tree/main/1393-capital-gainloss/) | Medium |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Aryana12rj/DSA/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
