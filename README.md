@@ -106,6 +106,7 @@ Happy Coding!
 | [0011-container-with-most-water](https://github.com/Aryana12rj/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Aryana12rj/DSA/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryana12rj/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/Aryana12rj/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryana12rj/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/Aryana12rj/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Aryana12rj/DSA/tree/main/0042-trapping-rain-water/) | Hard |
@@ -395,6 +396,7 @@ Happy Coding!
 | [0011-container-with-most-water](https://github.com/Aryana12rj/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Aryana12rj/DSA/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryana12rj/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/Aryana12rj/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Aryana12rj/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Aryana12rj/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryana12rj/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
