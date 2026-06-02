@@ -173,6 +173,7 @@ Happy Coding!
 | [3093-longest-common-suffix-queries](https://github.com/Aryana12rj/DSA/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aryana12rj/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Aryana12rj/DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aryana12rj/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3721-longest-balanced-subarray-ii](https://github.com/Aryana12rj/DSA/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -250,6 +251,7 @@ Happy Coding!
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aryana12rj/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aryana12rj/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Aryana12rj/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aryana12rj/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -303,6 +305,7 @@ Happy Coding!
 | [0268-missing-number](https://github.com/Aryana12rj/DSA/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Aryana12rj/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aryana12rj/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aryana12rj/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -405,6 +408,7 @@ Happy Coding!
 | [0455-assign-cookies](https://github.com/Aryana12rj/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Aryana12rj/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aryana12rj/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aryana12rj/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -499,6 +503,7 @@ Happy Coding!
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Aryana12rj/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aryana12rj/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aryana12rj/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aryana12rj/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
