@@ -294,6 +294,7 @@ Happy Coding!
 | [1871-jump-game-vii](https://github.com/Aryana12rj/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Aryana12rj/DSA/tree/main/2547-minimum-cost-to-split-an-array/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Aryana12rj/DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aryana12rj/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -417,6 +418,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2765-longest-alternating-subarray](https://github.com/Aryana12rj/DSA/tree/main/2765-longest-alternating-subarray/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aryana12rj/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -446,6 +448,7 @@ Happy Coding!
 | [0899-orderly-queue](https://github.com/Aryana12rj/DSA/tree/main/0899-orderly-queue/) | Hard |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Aryana12rj/DSA/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aryana12rj/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aryana12rj/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Aryana12rj/DSA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Aryana12rj/DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Tree
