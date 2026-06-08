@@ -164,6 +164,7 @@ Happy Coding!
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Aryana12rj/DSA/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Aryana12rj/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aryana12rj/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Aryana12rj/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aryana12rj/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Aryana12rj/DSA/tree/main/2547-minimum-cost-to-split-an-array/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/Aryana12rj/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -413,6 +414,7 @@ Happy Coding!
 | [0283-move-zeroes](https://github.com/Aryana12rj/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/Aryana12rj/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Aryana12rj/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Aryana12rj/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aryana12rj/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aryana12rj/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aryana12rj/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -502,6 +504,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Aryana12rj/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Aryana12rj/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
