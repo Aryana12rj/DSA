@@ -60,6 +60,7 @@ Happy Coding!
 | [0721-accounts-merge](https://github.com/Aryana12rj/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Aryana12rj/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Aryana12rj/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -452,6 +453,7 @@ Happy Coding!
 | [0899-orderly-queue](https://github.com/Aryana12rj/DSA/tree/main/0899-orderly-queue/) | Hard |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Aryana12rj/DSA/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aryana12rj/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Aryana12rj/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aryana12rj/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Aryana12rj/DSA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Aryana12rj/DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -472,6 +474,7 @@ Happy Coding!
 | [0543-diameter-of-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Aryana12rj/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
