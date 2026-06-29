@@ -3,7 +3,7 @@ class Solution {
         int count = 0;
 
         for (String p : patterns) {
-            if (word.contains(p)) {
+            if (word.indexOf(p)!=-1) {
                 count++;
             }
         }
