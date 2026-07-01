@@ -1,38 +1,21 @@
-import java.util.*;
-
 class Solution {
-    int n;
-    int[][] pairs;
-
-    public int solve(int indx, int prev, int[][] dp) {
-        if (indx == n) return 0;
-
-        // Memoization check (shift prev by +1 to handle -1 case)
-        if (dp[indx][prev+1] != -1) return dp[indx][prev+1];
-
-        // Option 1: skip current pair
-        int skip = solve(indx + 1, prev, dp);
-
-        // Option 2: take current pair if valid
-        int take = 0;
-        if (prev == -1 || pairs[prev][1] < pairs[indx][0]) {
-            take = 1 + solve(indx + 1, indx, dp);
-        }
-
-        return dp[indx][prev+1] = Math.max(skip, take);
-    }
 
     public int findLongestChain(int[][] pairs) {
-        this.n = pairs.length;
-        this.pairs = pairs;
+        int n=pairs.length;
+        //sort by first element
+        Arrays.sort(pairs,(a,b) -> a[0]-b[0]);
+        int maxlenlis=1;
+        int[] dp=new int[n+1];
+        Arrays.fill(dp,1);
+        for(int i=0;i<n;i++){
+            for(int j=0;j<i;j++){
+                if(pairs[j][1]<pairs[i][0]){
+                    dp[i]=Math.max(dp[i],dp[j]+1);
+                }
+            }
+            maxlenlis=Math.max(maxlenlis,dp[i]);
 
-        // Sort pairs by first element (or second, both work with recursion)
-        Arrays.sort(pairs, (a, b) -> a[0] - b[0]);
-
-        int[][] dp = new int[n][n + 1];
-        for (int[] row : dp) Arrays.fill(row, -1);
-
-        return solve(0, -1, dp);
+        }
+        return maxlenlis;
     }
 }
-
