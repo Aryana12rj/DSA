@@ -2,7 +2,6 @@ import java.util.*;
 
 class Solution {
     int n;
-    Integer[][] memo; 
 
     //  Check if 'prev' is a predecessor of 'curr'
     public boolean isPredecessor(String prev, String curr) {
@@ -22,33 +21,25 @@ class Solution {
         return i == M; // all chars of prev matched
     }
 
-    //  Recursive LIS variant with memoization
-    public int Lis(int currIndx, int prevIndx, String[] words) {
-        if (currIndx == n) return 0;
-
-        if (memo[currIndx][prevIndx + 1] != null) {
-            return memo[currIndx][prevIndx + 1];
-        }
-
-        // take or skip
-        int take = 0;
-        if (prevIndx == -1 || isPredecessor(words[prevIndx], words[currIndx])) {
-            take = 1 + Lis(currIndx + 1, currIndx, words);
-        }
-
-        int skip = Lis(currIndx + 1, prevIndx, words);
-
-        return memo[currIndx][prevIndx + 1] = Math.max(take, skip);
-    }
-
     public int longestStrChain(String[] words) {
         n = words.length;
-
-        // sort words by length (important for LIS transitions)
+        // sort words by length 
         Arrays.sort(words, (a, b) -> a.length() - b.length());
 
-        memo = new Integer[n][n + 1]; // prevIndx can be -1 → shift by +1
+        int[] dp = new int[n+1]; 
+        Arrays.fill(dp,1);
+        int maxlenlis=1;
 
-        return Lis(0, -1, words);
+        for(int i=0;i<n;i++){
+            for(int j=0;j<i;j++){
+                if(isPredecessor(words[j],words[i])){
+                    dp[i]=Math.max(dp[i],dp[j]+1);
+                }
+            }
+            maxlenlis=Math.max(maxlenlis,dp[i]);
+        }
+        return maxlenlis;
+
+
     }
 }
