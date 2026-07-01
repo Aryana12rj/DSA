@@ -156,6 +156,7 @@ Happy Coding!
 | [0879-profitable-schemes](https://github.com/Aryana12rj/DSA/tree/main/0879-profitable-schemes/) | Hard |
 | [0909-snakes-and-ladders](https://github.com/Aryana12rj/DSA/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aryana12rj/DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1048-longest-string-chain](https://github.com/Aryana12rj/DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aryana12rj/DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1314-matrix-block-sum](https://github.com/Aryana12rj/DSA/tree/main/1314-matrix-block-sum/) | Medium |
 | [1340-jump-game-v](https://github.com/Aryana12rj/DSA/tree/main/1340-jump-game-v/) | Hard |
@@ -199,6 +200,7 @@ Happy Coding!
 | [0721-accounts-merge](https://github.com/Aryana12rj/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aryana12rj/DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1048-longest-string-chain](https://github.com/Aryana12rj/DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aryana12rj/DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aryana12rj/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Aryana12rj/DSA/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
@@ -226,6 +228,7 @@ Happy Coding!
 | [0657-robot-return-to-origin](https://github.com/Aryana12rj/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0721-accounts-merge](https://github.com/Aryana12rj/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0899-orderly-queue](https://github.com/Aryana12rj/DSA/tree/main/0899-orderly-queue/) | Hard |
+| [1048-longest-string-chain](https://github.com/Aryana12rj/DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Aryana12rj/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aryana12rj/DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aryana12rj/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -255,6 +258,7 @@ Happy Coding!
 | [0721-accounts-merge](https://github.com/Aryana12rj/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0899-orderly-queue](https://github.com/Aryana12rj/DSA/tree/main/0899-orderly-queue/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1048-longest-string-chain](https://github.com/Aryana12rj/DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1340-jump-game-v](https://github.com/Aryana12rj/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Aryana12rj/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Aryana12rj/DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -298,6 +302,7 @@ Happy Coding!
 | [0741-cherry-pickup](https://github.com/Aryana12rj/DSA/tree/main/0741-cherry-pickup/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Aryana12rj/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0879-profitable-schemes](https://github.com/Aryana12rj/DSA/tree/main/0879-profitable-schemes/) | Hard |
+| [1048-longest-string-chain](https://github.com/Aryana12rj/DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Aryana12rj/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1340-jump-game-v](https://github.com/Aryana12rj/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Aryana12rj/DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -422,6 +427,7 @@ Happy Coding!
 | [0283-move-zeroes](https://github.com/Aryana12rj/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/Aryana12rj/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Aryana12rj/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1048-longest-string-chain](https://github.com/Aryana12rj/DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aryana12rj/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aryana12rj/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aryana12rj/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
