@@ -84,6 +84,7 @@ Happy Coding!
 | [0909-snakes-and-ladders](https://github.com/Aryana12rj/DSA/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aryana12rj/DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Aryana12rj/DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +102,7 @@ Happy Coding!
 | [0399-evaluate-division](https://github.com/Aryana12rj/DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aryana12rj/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Aryana12rj/DSA/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Aryana12rj/DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,6 +183,7 @@ Happy Coding!
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aryana12rj/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Aryana12rj/DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Aryana12rj/DSA/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Aryana12rj/DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aryana12rj/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Aryana12rj/DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aryana12rj/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -381,6 +384,7 @@ Happy Coding!
 | [1314-matrix-block-sum](https://github.com/Aryana12rj/DSA/tree/main/1314-matrix-block-sum/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aryana12rj/DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Aryana12rj/DSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Aryana12rj/DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Aryana12rj/DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -520,11 +524,13 @@ Happy Coding!
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Aryana12rj/DSA/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Aryana12rj/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aryana12rj/DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Aryana12rj/DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/Aryana12rj/DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Aryana12rj/DSA/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Aryana12rj/DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
