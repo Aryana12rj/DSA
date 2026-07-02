@@ -158,6 +158,7 @@ Happy Coding!
 | [0879-profitable-schemes](https://github.com/Aryana12rj/DSA/tree/main/0879-profitable-schemes/) | Hard |
 | [0909-snakes-and-ladders](https://github.com/Aryana12rj/DSA/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aryana12rj/DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aryana12rj/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1048-longest-string-chain](https://github.com/Aryana12rj/DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aryana12rj/DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1314-matrix-block-sum](https://github.com/Aryana12rj/DSA/tree/main/1314-matrix-block-sum/) | Medium |
@@ -326,6 +327,7 @@ Happy Coding!
 | [0268-missing-number](https://github.com/Aryana12rj/DSA/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Aryana12rj/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aryana12rj/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aryana12rj/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aryana12rj/DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aryana12rj/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aryana12rj/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
