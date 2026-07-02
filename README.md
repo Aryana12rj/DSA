@@ -119,6 +119,7 @@ Happy Coding!
 | [0055-jump-game](https://github.com/Aryana12rj/DSA/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Aryana12rj/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Aryana12rj/DSA/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Aryana12rj/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0075-sort-colors](https://github.com/Aryana12rj/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryana12rj/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0130-surrounded-regions](https://github.com/Aryana12rj/DSA/tree/main/0130-surrounded-regions/) | Medium |
@@ -293,6 +294,7 @@ Happy Coding!
 | [0055-jump-game](https://github.com/Aryana12rj/DSA/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Aryana12rj/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Aryana12rj/DSA/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Aryana12rj/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Aryana12rj/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryana12rj/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryana12rj/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -377,6 +379,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/Aryana12rj/DSA/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Aryana12rj/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0130-surrounded-regions](https://github.com/Aryana12rj/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0174-dungeon-game](https://github.com/Aryana12rj/DSA/tree/main/0174-dungeon-game/) | Hard |
 | [0200-number-of-islands](https://github.com/Aryana12rj/DSA/tree/main/0200-number-of-islands/) | Medium |
