@@ -1,33 +1,43 @@
+import java.util.*;
+
 class Solution {
-    // 🔹 Find function with path compression
-    // This returns the "root" (representative) of a node in the Union-Find structure.
-    int find(int[] root, int i) {
-        if (root[i] == i) 
-            return i; // If node is its own parent, it's the root.
-        return root[i] = find(root, root[i]); 
-        // Path compression: directly connect node to its ultimate root.
+    // 🔹 DFS function to traverse the graph
+    private void dfs(List<List<int[]>> adj, int u, boolean[] visited, int[] minLen) {
+        visited[u] = true; // mark current node as visited
+
+        for (int[] edge : adj.get(u)) {
+            int v = edge[0];   // neighbor city
+            int d = edge[1];   // road distance (weight)
+
+            // update minimum edge weight seen so far
+            minLen[0] = Math.min(minLen[0], d);
+
+            // continue DFS if neighbor not visited
+            if (!visited[v]) {
+                dfs(adj, v, visited, minLen);
+            }
+        }
     }
 
     public int minScore(int n, int[][] roads) {
-        // 🔹 Step 1: Initialize Union-Find parent array
-        int[] root = new int[n + 1]; 
-        for (int i = 0; i <= n; i++) 
-            root[i] = i; // Initially, each node is its own parent.
-
-        // 🔹 Step 2: Union operation for all roads
-        // Connect the two cities of each road into the same component.
-        for (int[] r : roads) 
-            root[find(root, r[0])] = find(root, r[1]);
-
-        // 🔹 Step 3: Find minimum edge weight among roads connected to city 1
-        int res = 10001; // Max possible edge weight is 10^4, so start with a safe upper bound.
-        for (int[] r : roads) {
-            // If this road belongs to the same connected component as city 1
-            if (find(root, r[0]) == find(root, 1)) 
-                res = Math.min(res, r[2]); // Update minimum edge weight.
+        // 🔹 Step 1: Build adjacency list
+        List<List<int[]>> adj = new ArrayList<>();
+        for (int i = 0; i <= n; i++) {
+            adj.add(new ArrayList<>());
         }
 
-        // 🔹 Step 4: Return the minimum score
-        return res;
+        for (int[] road : roads) {
+            adj.get(road[0]).add(new int[]{road[1], road[2]});
+            adj.get(road[1]).add(new int[]{road[0], road[2]});
+        }
+
+        // 🔹 Step 2: DFS from city 1
+        boolean[] visited = new boolean[n + 1];
+        int[] minLen = {Integer.MAX_VALUE}; // use array to allow modification inside DFS
+
+        dfs(adj, 1, visited, minLen);
+
+        // 🔹 Step 3: Return minimum edge weight found
+        return minLen[0];
     }
 }
