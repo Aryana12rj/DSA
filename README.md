@@ -181,6 +181,7 @@ Happy Coding!
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aryana12rj/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aryana12rj/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aryana12rj/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Aryana12rj/DSA/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aryana12rj/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Aryana12rj/DSA/tree/main/2547-minimum-cost-to-split-an-array/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/Aryana12rj/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -219,6 +220,7 @@ Happy Coding!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aryana12rj/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Aryana12rj/DSA/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Aryana12rj/DSA/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Aryana12rj/DSA/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Aryana12rj/DSA/tree/main/2547-minimum-cost-to-split-an-array/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Aryana12rj/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aryana12rj/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -278,6 +280,7 @@ Happy Coding!
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Aryana12rj/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Aryana12rj/DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aryana12rj/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Aryana12rj/DSA/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aryana12rj/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Aryana12rj/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aryana12rj/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -481,6 +484,7 @@ Happy Coding!
 | [0594-longest-harmonious-subsequence](https://github.com/Aryana12rj/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aryana12rj/DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Aryana12rj/DSA/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Aryana12rj/DSA/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Aryana12rj/DSA/tree/main/2547-minimum-cost-to-split-an-array/) | Hard |
 | [2833-furthest-point-from-origin](https://github.com/Aryana12rj/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Math
