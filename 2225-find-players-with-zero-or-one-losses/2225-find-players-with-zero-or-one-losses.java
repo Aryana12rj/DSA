@@ -1,47 +1,43 @@
+import java.util.*;
+
 class Solution {
     public List<List<Integer>> findWinners(int[][] matches) {
-        //key-players value=count of losses
+        // key = player, value = count of losses
+        Map<Integer, Integer> lost_map = new HashMap<>();
 
-        Map<Integer,Integer> lost_map=new HashMap<>();
-
-        for(int i=0;i<matches.length;i++){
-            int loser=matches[i][1];
-
-            lost_map.put(loser,lost_map.getOrDefault(loser,0)+1);
+        // First pass: count losses
+        for (int i = 0; i < matches.length; i++) {
+            int loser = matches[i][1];
+            lost_map.put(loser, lost_map.getOrDefault(loser, 0) + 1);
         }
-        //ensure your winner are tracked
-        for(int i=0;i<matches.length;i++){
-            int winner=matches[i][0];
-            if(!lost_map.containsKey(winner)){
-                lost_map.put(winner,0);
+
+        List<Integer> notLost = new ArrayList<>();
+        List<Integer> lostOnce = new ArrayList<>();
+
+        // Second pass: check winners and categorize losers
+        for (int i = 0; i < matches.length; i++) {
+            int winner = matches[i][0];
+            int loser = matches[i][1];
+
+            // If winner never recorded in lost_map, he has 0 losses
+            if (!lost_map.containsKey(winner)) {
+                notLost.add(winner);
+                // Mark winner as "visited" so we don’t add again
+                lost_map.put(winner, 2); 
+            }
+
+            // If loser has exactly one loss, add to lostOnce
+            if (lost_map.get(loser) == 1) {
+                lostOnce.add(loser);
+                // Mark loser as "visited" so we don’t add again
+                lost_map.put(loser, 2);
             }
         }
-        //prepare result list
-        List<Integer> notlost=new ArrayList<>();
-        List<Integer> lostonce=new ArrayList<>();
 
-        //categorize players
-        for(Map.Entry<Integer,Integer> entry : lost_map.entrySet()){
-            int player=entry.getKey();
-            int losses=entry.getValue();
+        // Sort results
+        Collections.sort(notLost);
+        Collections.sort(lostOnce);
 
-            if(losses==0){
-                notlost.add(player);
-            }else if(losses==1){
-                lostonce.add(player);
-            }
-        }
-        //sort
-        Collections.sort(notlost);
-        Collections.sort(lostonce);
-
-        //final answer
-        List<List<Integer>> answer=new ArrayList<>(2);
-        answer.add(notlost);
-        answer.add(lostonce);
-
-        return answer;
-
-
+        return Arrays.asList(notLost, lostOnce);
     }
 }
