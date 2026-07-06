@@ -169,6 +169,7 @@ Happy Coding!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aryana12rj/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1048-longest-string-chain](https://github.com/Aryana12rj/DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aryana12rj/DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/Aryana12rj/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Aryana12rj/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1314-matrix-block-sum](https://github.com/Aryana12rj/DSA/tree/main/1314-matrix-block-sum/) | Medium |
 | [1340-jump-game-v](https://github.com/Aryana12rj/DSA/tree/main/1340-jump-game-v/) | Hard |
@@ -276,6 +277,7 @@ Happy Coding!
 | [0899-orderly-queue](https://github.com/Aryana12rj/DSA/tree/main/0899-orderly-queue/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1048-longest-string-chain](https://github.com/Aryana12rj/DSA/tree/main/1048-longest-string-chain/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/Aryana12rj/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1340-jump-game-v](https://github.com/Aryana12rj/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Aryana12rj/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Aryana12rj/DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
