@@ -109,6 +109,7 @@ Happy Coding!
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aryana12rj/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aryana12rj/DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aryana12rj/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aryana12rj/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +199,7 @@ Happy Coding!
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aryana12rj/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Aryana12rj/DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aryana12rj/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aryana12rj/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aryana12rj/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aryana12rj/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3721-longest-balanced-subarray-ii](https://github.com/Aryana12rj/DSA/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
@@ -289,6 +291,7 @@ Happy Coding!
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Aryana12rj/DSA/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aryana12rj/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Aryana12rj/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aryana12rj/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aryana12rj/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aryana12rj/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Stack
@@ -337,6 +340,7 @@ Happy Coding!
 | [1871-jump-game-vii](https://github.com/Aryana12rj/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Aryana12rj/DSA/tree/main/2547-minimum-cost-to-split-an-array/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Aryana12rj/DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aryana12rj/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aryana12rj/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -354,6 +358,7 @@ Happy Coding!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aryana12rj/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aryana12rj/DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aryana12rj/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aryana12rj/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aryana12rj/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aryana12rj/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Database
@@ -466,6 +471,7 @@ Happy Coding!
 | [1048-longest-string-chain](https://github.com/Aryana12rj/DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aryana12rj/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aryana12rj/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aryana12rj/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aryana12rj/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aryana12rj/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Enumeration
@@ -575,6 +581,7 @@ Happy Coding!
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Aryana12rj/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aryana12rj/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aryana12rj/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aryana12rj/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aryana12rj/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aryana12rj/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Combinatorics
@@ -607,6 +614,7 @@ Happy Coding!
 | [0136-single-number](https://github.com/Aryana12rj/DSA/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Aryana12rj/DSA/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Aryana12rj/DSA/tree/main/0389-find-the-difference/) | Easy |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aryana12rj/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
