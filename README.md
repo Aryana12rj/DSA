@@ -61,6 +61,7 @@ Happy Coding!
 | [0733-flood-fill](https://github.com/Aryana12rj/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aryana12rj/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/Aryana12rj/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Aryana12rj/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -85,6 +86,7 @@ Happy Coding!
 | [0909-snakes-and-ladders](https://github.com/Aryana12rj/DSA/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryana12rj/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aryana12rj/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/Aryana12rj/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aryana12rj/DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aryana12rj/DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Union-Find
@@ -96,6 +98,7 @@ Happy Coding!
 | [0547-number-of-provinces](https://github.com/Aryana12rj/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0721-accounts-merge](https://github.com/Aryana12rj/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aryana12rj/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/Aryana12rj/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aryana12rj/DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aryana12rj/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Graph Theory
@@ -107,6 +110,7 @@ Happy Coding!
 | [0547-number-of-provinces](https://github.com/Aryana12rj/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Aryana12rj/DSA/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aryana12rj/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/Aryana12rj/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aryana12rj/DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aryana12rj/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aryana12rj/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
