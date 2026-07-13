@@ -170,6 +170,7 @@ Happy Coding!
 | [0741-cherry-pickup](https://github.com/Aryana12rj/DSA/tree/main/0741-cherry-pickup/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Aryana12rj/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aryana12rj/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0860-lemonade-change](https://github.com/Aryana12rj/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0879-profitable-schemes](https://github.com/Aryana12rj/DSA/tree/main/0879-profitable-schemes/) | Hard |
 | [0909-snakes-and-ladders](https://github.com/Aryana12rj/DSA/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aryana12rj/DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -584,6 +585,7 @@ Happy Coding!
 | [0055-jump-game](https://github.com/Aryana12rj/DSA/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/Aryana12rj/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aryana12rj/DSA/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0860-lemonade-change](https://github.com/Aryana12rj/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryana12rj/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Aryana12rj/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aryana12rj/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
