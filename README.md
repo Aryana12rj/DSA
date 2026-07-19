@@ -264,6 +264,7 @@ Happy Coding!
 | [0899-orderly-queue](https://github.com/Aryana12rj/DSA/tree/main/0899-orderly-queue/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryana12rj/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1048-longest-string-chain](https://github.com/Aryana12rj/DSA/tree/main/1048-longest-string-chain/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aryana12rj/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Aryana12rj/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aryana12rj/DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aryana12rj/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -315,6 +316,7 @@ Happy Coding!
 | [0042-trapping-rain-water](https://github.com/Aryana12rj/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aryana12rj/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryana12rj/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aryana12rj/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -603,6 +605,7 @@ Happy Coding!
 | [0646-maximum-length-of-pair-chain](https://github.com/Aryana12rj/DSA/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0860-lemonade-change](https://github.com/Aryana12rj/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryana12rj/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aryana12rj/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Aryana12rj/DSA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aryana12rj/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aryana12rj/DSA/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -645,6 +648,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Aryana12rj/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aryana12rj/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
